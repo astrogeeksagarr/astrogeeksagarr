@@ -36,19 +36,60 @@
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
 
-### DevOps / Server
-![Linux](https://img.shields.io/badge/Linux-111?style=flat&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-111?style=flat&logo=nginx)
-![Apache](https://img.shields.io/badge/Apache-111?style=flat&logo=apache)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
+## 🧰 Tools & Utilities
+![Bash](https://img.shields.io/badge/Bash-111?style=flat-square&logo=gnubash)
+![Zsh](https://img.shields.io/badge/Zsh-111?style=flat-square&logo=gnu)
+![Vim](https://img.shields.io/badge/Vim-111?style=flat-square&logo=vim)
+![VS Code](https://img.shields.io/badge/VS%20Code-111?style=flat-square&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-111?style=flat-square&logo=postman)
+![npm](https://img.shields.io/badge/npm-111?style=flat-square&logo=npm)
+![Composer](https://img.shields.io/badge/Composer-111?style=flat-square&logo=composer)
+![cURL](https://img.shields.io/badge/cURL-111?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-111?style=flat-square)
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-111?style=flat&logo=amazonaws)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111?style=flat&logo=digitalocean)
-![IONOS](https://img.shields.io/badge/IONOS-111?style=flat)
-![CyberPanel](https://img.shields.io/badge/CyberPanel-111?style=flat)
+## 🔐 Security
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-111?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-111?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-111?style=flat-square)
+![HTTPS](https://img.shields.io/badge/HTTPS-111?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall-111?style=flat-square)
+![Security Headers](https://img.shields.io/badge/Security%20Headers-111?style=flat-square)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-111?style=flat-square)
+![CORS](https://img.shields.io/badge/CORS-111?style=flat-square)
+
+## 🔌 API & Integration
+![REST API](https://img.shields.io/badge/REST-111?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-111?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-111?style=flat-square)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-111?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-111?style=flat-square&logo=graphql)
+![JSON](https://img.shields.io/badge/JSON-111?style=flat-square)
+
+## ⚡ Performance
+![Caching](https://img.shields.io/badge/Caching-111?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-111?style=flat-square&logo=redis)
+![Memcached](https://img.shields.io/badge/Memcached-111?style=flat-square)
+![CDN](https://img.shields.io/badge/CDN-111?style=flat-square)
+![Compression](https://img.shields.io/badge/Compression-111?style=flat-square)
+![Optimization](https://img.shields.io/badge/Optimization-111?style=flat-square)
+![Monitoring](https://img.shields.io/badge/Monitoring-111?style=flat-square)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-111?style=flat-square)
+
+## ☁️ DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=flat-square&logo=githubactions)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-111?style=flat-square&logo=apache)
+![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux)
+
+## ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonaws)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111?style=flat-square&logo=digitalocean)
+![IONOS](https://img.shields.io/badge/IONOS-111?style=flat-square)
+![CyberPanel](https://img.shields.io/badge/CyberPanel-111?style=flat-square)
+![VPS](https://img.shields.io/badge/VPS-111?style=flat-square)
 
 ## 📊 Statistics
 
