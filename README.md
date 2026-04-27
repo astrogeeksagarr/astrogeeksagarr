@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/⚠️%20Notice-Previous%20GitHub%20account%20was%20suspended%20due%20to%20policy%20issue.%20This%20is%20my%20new%20official%20account.-ffcc00?style=for-the-badge">
+</p>
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astrogeeksagarr&theme=github-dark-dimmed&custom_title=AstrogeekSagar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20"> Spotify
