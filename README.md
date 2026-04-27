@@ -16,3 +16,9 @@
 <p align="center">
   <img src="https://spotify-top-tracks-readme.vercel.app/api?user=pis7iau8eazaoy8sol1pjphuf&cache_seconds=0">
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=astrogeeksagarr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=3b82f6&text_color=374151&include_all_commits=true&count_private=true">
+</p>
