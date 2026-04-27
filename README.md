@@ -22,3 +22,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=astrogeeksagarr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=3b82f6&text_color=374151&include_all_commits=true&count_private=true">
 </p>
+
+## 🚀 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagarr&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=374151">
+</p>
