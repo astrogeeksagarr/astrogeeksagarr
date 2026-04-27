@@ -17,6 +17,39 @@
   <img src="https://spotify-top-tracks-readme.vercel.app/api?user=pis7iau8eazaoy8sol1pjphuf&cache_seconds=0">
 </p>
 
+## ⚙️ Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-111?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-111?style=flat&logo=jquery)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-111?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=flat&logo=laravel)
+![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=flat&logo=node.js)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
+
+### DevOps / Server
+![Linux](https://img.shields.io/badge/Linux-111?style=flat&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-111?style=flat&logo=apache)
+![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-111?style=flat&logo=amazonaws)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111?style=flat&logo=digitalocean)
+![IONOS](https://img.shields.io/badge/IONOS-111?style=flat)
+![CyberPanel](https://img.shields.io/badge/CyberPanel-111?style=flat)
+
 ## 📊 Statistics
 
 <table>
