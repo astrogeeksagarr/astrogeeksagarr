@@ -17,14 +17,30 @@
   <img src="https://spotify-top-tracks-readme.vercel.app/api?user=pis7iau8eazaoy8sol1pjphuf&cache_seconds=0">
 </p>
 
-## 📊 GitHub Stats
+## 📊 Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astrogeeksagarr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=3b82f6&text_color=374151&include_all_commits=true&count_private=true">
-</p>
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 Most Used Languages
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=astrogeeksagarr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagarr&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=374151">
-</p>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true">
+
+</td>
+
+<td width="50%">
+
+### 🚀 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagarr&layout=compact&theme=tokyonight&hide_border=true">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeeksagarr&theme=tokyonight">
+
+</td>
+</tr>
+</table>
