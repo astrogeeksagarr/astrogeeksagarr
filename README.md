@@ -99,24 +99,25 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 GitHub Stats
 
 <br>
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true&cache_seconds=1)">
+<img src="https://streak-stats.demolab.com?user=astrogeeksagarr&theme=tokyonight&hide_border=true&cache_seconds=1" width="100%">
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagarr&layout=compact&theme=tokyonight&hide_border=true">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagarr&layout=compact&theme=tokyonight&hide_border=true" width="100%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeeksagarr&theme=tokyonight">
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeeksagarr&theme=tokyonight" width="100%">
 
 </td>
 </tr>
