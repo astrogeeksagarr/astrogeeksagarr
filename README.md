@@ -102,11 +102,10 @@
 <td width="50%">
 
 ### 📈 GitHub Stats
-https://streak-stats.demolab.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true&cache_seconds=1
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true">
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=astrogeeksagarr&theme=tokyonight&hide_border=true&cache_seconds=1)">
 
 </td>
 
